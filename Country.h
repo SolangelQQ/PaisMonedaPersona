@@ -1,5 +1,5 @@
 //
-// Created by Leandro Guardia on 04/10/2022.
+// Created by Solangel on 04/10/2022.
 //
 
 #ifndef PAIS_MONEDA_PERSONA_COUNTRY_H
