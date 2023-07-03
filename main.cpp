@@ -21,7 +21,7 @@ int main() {
         bolivia.showInfo();
     }
     cout << endl;
-    p1 -> showInfo();
+    p1 -> showInformation();
 
     delete p1;
     return 0;
