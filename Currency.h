@@ -17,7 +17,7 @@ public:
     Currency();
     Currency(string, string, string);
     void set(string, string, string);
-    void showInfo();
+    void showInformation();
 };
 
 

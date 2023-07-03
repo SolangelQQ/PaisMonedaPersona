@@ -14,7 +14,7 @@ class Person {
     string lastName;
 public:
     Person(string, string);
-    void showInfo();
+    void showInformation();
     void setFirstname(string);
 };
 

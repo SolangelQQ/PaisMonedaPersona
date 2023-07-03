@@ -9,8 +9,8 @@ Person::Person(string firstName, string lastName) {
     this -> lastName = lastName;
 }
 
-void Person::showInfo() {
-     cout << firstName << " " << lastName << endl;
+void Person::showInformation() {
+    cout << firstName << " " << lastName << endl;
 }
 
 void Person::setFirstname(string firstName) {

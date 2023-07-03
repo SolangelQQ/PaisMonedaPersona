@@ -16,8 +16,6 @@ void Currency::set(string name, string symbol, string iso_code) {
     this -> iso_code = iso_code;
 }
 
-void Currency::showInfo() {
-    cout << "Moneda: " << name
-         << " (" << iso_code << ") "
-         << symbol << endl;
+void Currency::showInformation() {
+    cout << "Moneda: " << name << " (" << iso_code << ") " << symbol << endl;
 }
